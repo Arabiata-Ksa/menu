@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>أرابياتا - Arabiata</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <style>
+    /* ═══════════════════════════════════════════
+       TOKENS
+    ═══════════════════════════════════════════ */
+    :root {
+      --brand:       #8b191c;
+      --brand-dark:  #6a1215;
+      --brand-light: #b52024;
+      --cream:       #e7d9c5;
+      --cream-dark:  #d4c3a8;
+      --cream-light: #f5efe4;
+      --bg:          #faf7f2;
+      --surface:     #ffffff;
+      --text-dark:   #1a1208;
+      --text-mid:    #5a4a38;
+      --text-soft:   #9a8872;
+      --radius:      14px;
+      --radius-sm:   8px;
+      --shadow-card: 0 2px 16px rgba(139,25,28,0.08);
+      --shadow-hover:0 8px 32px rgba(139,25,28,0.18);
+      --transition:  0.28s cubic-bezier(.4,0,.2,1);
+    }
+
+    /* ═══════════════════════════════════════════
+       RESET & BASE
+    ═══════════════════════════════════════════ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Cairo', sans-serif;
+      background: var(--bg);
+      color: var(--text-dark);
+      min-height: 100vh;
+      direction: rtl;
+    }
+    img { display: block; width: 100%; object-fit: cover; }
+    button { cursor: pointer; border: none; background: none; font-family: inherit; }
+
+    /* ═══════════════════════════════════════════
+       HERO / HEADER
+    ═══════════════════════════════════════════ */
+    .hero {
+      background: var(--brand);
+      position: relative;
+      overflow: hidden;
+      padding: 52px 24px 44px;
+      text-align: center;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 70% 60% at 50% 110%, rgba(231,217,197,0.12) 0%, transparent 70%),
+        repeating-linear-gradient(
+          45deg,
+          transparent,
+          transparent 28px,
+          rgba(231,217,197,0.04) 28px,
+          rgba(231,217,197,0.04) 29px
+        );
+    }
+    .hero-inner { position: relative; z-index: 1; }
+
+    /* Logo */
+    .logo-wrap {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+    .logo-circle {
+      width: 80px; height: 80px;
+      border-radius: 50%;
+      border: 2.5px solid var(--cream);
+      display: flex; align-items: center; justify-content: center;
+      background: rgba(231,217,197,0.1);
+      font-size: 2rem;
+      overflow: hidden;
+      padding: 0;
+    }
+    .logo-circle img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+    .logo-divider {
+      width: 48px; height: 1.5px;
+      background: linear-gradient(90deg, transparent, var(--cream), transparent);
+    }
+
+    .hero-title {
+      font-size: clamp(2rem, 6vw, 3.2rem);
+      font-weight: 900;
+      color: var(--cream);
+      letter-spacing: -0.5px;
+      line-height: 1.1;
+    }
+    .hero-tagline {
+      margin-top: 8px;
+      font-size: clamp(0.85rem, 2.5vw, 1rem);
+      color: rgba(231,217,197,0.75);
+      font-weight: 400;
+      letter-spacing: 0.5px;
+    }
+    .hero-ornament {
+      margin: 16px auto 0;
+      display: flex; align-items: center; gap: 10px;
+      justify-content: center;
+    }
+    .hero-ornament span { width: 30px; height: 1px; background: rgba(231,217,197,0.4); display: block; }
+    .hero-ornament em { color: rgba(231,217,197,0.5); font-style: normal; font-size: 0.75rem; }
+
+    /* ═══════════════════════════════════════════
+       STICKY CATEGORY NAV
+    ═══════════════════════════════════════════ */
+    .nav-wrap {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--surface);
+      border-bottom: 1.5px solid var(--cream-dark);
+      box-shadow: 0 2px 12px rgba(139,25,28,0.06);
+    }
+    .nav-scroll {
+      display: flex;
+      gap: 4px;
+      padding: 10px 16px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+    .nav-scroll::-webkit-scrollbar { display: none; }
+
+    .nav-btn {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      border-radius: 30px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--text-mid);
+      background: var(--cream-light);
+      border: 1.5px solid transparent;
+      transition: var(--transition);
+      white-space: nowrap;
+    }
+    .nav-btn .nav-icon { font-size: 1rem; }
+    .nav-btn:hover { background: var(--cream); color: var(--brand); }
+    .nav-btn.active {
+      background: var(--brand);
+      color: var(--cream);
+      border-color: var(--brand-dark);
+      box-shadow: 0 2px 10px rgba(139,25,28,0.25);
+    }
+
+    /* ═══════════════════════════════════════════
+       MAIN CONTENT
+    ═══════════════════════════════════════════ */
+    .content { max-width: 1200px; margin: 0 auto; padding: 32px 16px 60px; }
+
+    /* ═══════════════════════════════════════════
+       SECTION HEADING
+    ═══════════════════════════════════════════ */
+    .section { margin-bottom: 52px; }
+    .section-head {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 24px;
+    }
+    .section-icon {
+      width: 46px; height: 46px;
+      border-radius: 50%;
+      background: var(--brand);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.25rem;
+      flex-shrink: 0;
+    }
+    .section-title {
+      font-size: clamp(1.2rem, 3.5vw, 1.55rem);
+      font-weight: 800;
+      color: var(--brand);
+    }
+    .section-line {
+      flex: 1;
+      height: 1.5px;
+      background: linear-gradient(90deg, var(--cream-dark) 0%, transparent 100%);
+    }
+
+    /* ═══════════════════════════════════════════
+       CARDS GRID
+    ═══════════════════════════════════════════ */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: var(--surface);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow-card);
+      border: 1px solid rgba(231,217,197,0.5);
+      transition: var(--transition);
+      position: relative;
+      display: flex;
+      flex-direction: column;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-hover);
+      border-color: rgba(139,25,28,0.2);
+    }
+
+    /* Image */
+    .card-img-wrap {
+      position: relative;
+      height: 180px;
+      overflow: hidden;
+      background: var(--cream-light);
+    }
+    .card-img-wrap img {
+      height: 100%;
+      transition: transform 0.5s cubic-bezier(.4,0,.2,1);
+    }
+    .card:hover .card-img-wrap img { transform: scale(1.06); }
+
+    /* Unavailable overlay */
+    .card.unavailable .card-img-wrap::after {
+      content: 'غير متاح حالياً';
+      position: absolute; inset: 0;
+      background: rgba(0,0,0,0.55);
+      display: flex; align-items: center; justify-content: center;
+      color: #fff; font-weight: 700; font-size: 0.9rem;
+      font-family: 'Cairo', sans-serif;
+    }
+
+    /* Tags */
+    .card-tags {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      display: flex;
+      gap: 5px;
+      flex-wrap: wrap;
+    }
+    .tag {
+      font-size: 0.65rem;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 20px;
+      background: var(--brand);
+      color: var(--cream);
+      letter-spacing: 0.3px;
+    }
+    .tag.special {
+      background: #c47d00;
+      color: #fff;
+    }
+
+    /* Body */
+    .card-body {
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      flex: 1;
+    }
+    .card-name {
+      font-size: 1rem;
+      font-weight: 800;
+      color: var(--text-dark);
+      line-height: 1.3;
+    }
+    .card-desc {
+      font-size: 0.8rem;
+      color: var(--text-soft);
+      font-weight: 400;
+      line-height: 1.6;
+    }
+
+    /* Footer: price + calories */
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: auto;
+      padding-top: 12px;
+      border-top: 1px dashed var(--cream-dark);
+    }
+    .card-price {
+      font-size: 1.1rem;
+      font-weight: 900;
+      color: var(--brand);
+      display: flex;
+      align-items: baseline;
+      gap: 4px;
+    }
+    .card-price .currency {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--brand-light);
+      opacity: 0.85;
+    }
+    .card-calories {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.7rem;
+      font-weight: 500;
+      color: var(--text-soft);
+      background: var(--cream-light);
+      padding: 3px 9px;
+      border-radius: 20px;
+      border: 1px solid var(--cream-dark);
+    }
+    .cal-icon { font-size: 0.75rem; }
+
+    /* ═══════════════════════════════════════════
+       FOOTER
+    ═══════════════════════════════════════════ */
+    .site-footer {
+      background: var(--brand);
+      color: rgba(231,217,197,0.8);
+      text-align: center;
+      padding: 24px 16px;
+      font-size: 0.8rem;
+      font-weight: 400;
+      letter-spacing: 0.3px;
+    }
+    .site-footer strong { color: var(--cream); font-weight: 700; }
+
+    /* ═══════════════════════════════════════════
+       LOADING STATE
+    ═══════════════════════════════════════════ */
+    .skeleton-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 20px;
+    }
+    .skeleton-card {
+      border-radius: var(--radius);
+      overflow: hidden;
+      background: var(--surface);
+      box-shadow: var(--shadow-card);
+    }
+    .skeleton-img { height: 180px; background: var(--cream-light); animation: pulse 1.4s ease infinite; }
+    .skeleton-body { padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+    .skeleton-line { height: 12px; border-radius: 6px; background: var(--cream-light); animation: pulse 1.4s ease infinite; }
+    .skeleton-line.short { width: 55%; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.45; }
+    }
+
+    /* ═══════════════════════════════════════════
+       SCROLL TO TOP
+    ═══════════════════════════════════════════ */
+    .scroll-top {
+      position: fixed;
+      bottom: 24px;
+      left: 20px;
+      width: 44px; height: 44px;
+      border-radius: 50%;
+      background: var(--brand);
+      color: var(--cream);
+      font-size: 1.2rem;
+      display: flex; align-items: center; justify-content: center;
+      box-shadow: 0 4px 16px rgba(139,25,28,0.35);
+      opacity: 0;
+      pointer-events: none;
+      transition: var(--transition);
+      z-index: 200;
+    }
+    .scroll-top.visible { opacity: 1; pointer-events: auto; }
+    .scroll-top:hover { background: var(--brand-dark); transform: translateY(-2px); }
+
+    /* ═══════════════════════════════════════════
+       RESPONSIVE
+    ═══════════════════════════════════════════ */
+    @media (max-width: 600px) {
+      .hero { padding: 38px 16px 32px; }
+      .logo-circle { width: 64px; height: 64px; font-size: 1.6rem; }
+      .cards-grid { grid-template-columns: 1fr; gap: 16px; }
+      .card-img-wrap { height: 200px; }
+      .content { padding: 24px 12px 50px; }
+    }
+    @media (min-width: 601px) and (max-width: 900px) {
+      .cards-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="logo-wrap">
+        <div class="logo-circle" id="logo-icon">
+          <img src="./logo.jpg" alt="لوجو المطعم" />
+      </div>
+        <div class="logo-divider"></div>
+      </div>
+      <h1 class="hero-title" id="rest-name">أرابياتا - Arabiata</h1>
+      <p class="hero-tagline" id="rest-tagline">أصلي مصري عصري</p>
+      <div class="hero-ornament">
+        <span></span><em>✦ القائمة ✦</em><span></span>
+      </div>
+    </div>
+  </header>
+
+  <!-- STICKY NAV -->
+  <nav class="nav-wrap">
+    <div class="nav-scroll" id="cat-nav"></div>
+  </nav>
+
+  <!-- CONTENT -->
+  <main class="content" id="main-content">
+    <div id="skeleton-loader">
+      <div class="skeleton-grid">
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-body"><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></div>
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-body"><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></div>
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-body"><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></div>
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-body"><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></div>
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-body"><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></div>
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-body"><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></div>
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-body"><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></div>
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-body"><div class="skeleton-line"></div><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></div>
+      </div>
+    </div>
+    <div id="sections-container" style="display:none;"></div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <strong id="footer-name">مطعم الأصالة</strong> جميع الأسعار شاملة الضريبة
+  </footer>
+
+  <!-- SCROLL TOP -->
+  <button class="scroll-top" id="scrollTopBtn" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="العودة للأعلى">↑</button>
+
+  <script>
+    /* ──────────────────────────────────────────
+       LOAD MENU JSON
+    ────────────────────────────────────────── */
+    async function loadMenu() {
+      try {
+        const res = await fetch('menu.json');
+        if (!res.ok) throw new Error('failed');
+        const data = await res.json();
+        renderMenu(data.restaurant);
+      } catch {
+        // Fallback: fetch inline demo data
+        renderMenu(DEMO);
+      }
+    }
+
+    /* ──────────────────────────────────────────
+       RENDER
+    ────────────────────────────────────────── */
+    function renderMenu(rest) {
+      // Header
+      document.getElementById('rest-name').textContent   = rest.name;
+      document.getElementById('rest-tagline').textContent= rest.tagline;
+      document.getElementById('footer-name').textContent = rest.name;
+      document.title = rest.name + ' – القائمة';
+
+      const nav      = document.getElementById('cat-nav');
+      const container= document.getElementById('sections-container');
+      const currency = rest.currency || 'ر.س';
+
+      rest.categories.forEach((cat, i) => {
+        /* NAV BUTTON */
+        const btn = document.createElement('button');
+        btn.className = 'nav-btn' + (i === 0 ? ' active' : '');
+        btn.dataset.target = 'cat-' + cat.id;
+        btn.innerHTML = `<span class="nav-icon">${cat.icon}</span>${cat.name}`;
+        btn.addEventListener('click', () => scrollToSection('cat-' + cat.id, btn));
+        nav.appendChild(btn);
+
+        /* SECTION */
+        const section = document.createElement('section');
+        section.className = 'section';
+        section.id = 'cat-' + cat.id;
+        section.innerHTML = `
+          <div class="section-head">
+            <div class="section-icon">${cat.icon}</div>
+            <h2 class="section-title">${cat.name}</h2>
+            <div class="section-line"></div>
+          </div>
+          <div class="cards-grid" id="grid-${cat.id}"></div>
+        `;
+        container.appendChild(section);
+
+        /* CARDS */
+        const grid = section.querySelector('#grid-' + cat.id);
+        cat.items.forEach(item => {
+          grid.appendChild(buildCard(item, currency));
+        });
+      });
+
+      // Hide skeleton, show content
+      document.getElementById('skeleton-loader').style.display = 'none';
+      container.style.display = 'block';
+
+      // Intersection observer for active nav
+      setupObserver();
+    }
+
+    /* ──────────────────────────────────────────
+       CARD BUILDER
+    ────────────────────────────────────────── */
+    function buildCard(item, currency) {
+      const card = document.createElement('article');
+      card.className = 'card' + (!item.available ? ' unavailable' : '');
+
+      const tagsHtml = (item.tags || []).map(t => {
+        const isSpecial = t === 'الأكثر طلباً' || t === 'فاخر';
+        return `<span class="tag ${isSpecial ? 'special' : ''}">${t}</span>`;
+      }).join('');
+
+      card.innerHTML = `
+        <div class="card-img-wrap">
+          <img src="${item.image}" alt="${item.name}" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80'"/>
+          <div class="card-tags">${tagsHtml}</div>
+        </div>
+        <div class="card-body">
+          <div class="card-name">${item.name}</div>
+          <div class="card-desc">${item.description}</div>
+          <div class="card-footer">
+            <div class="card-price">
+              ${item.price}
+              <span class="currency">${currency}</span>
+            </div>
+            <div class="card-calories">
+              <span class="cal-icon">🔥</span>
+              ${item.calories} cal
+            </div>
+          </div>
+        </div>
+      `;
+      return card;
+    }
+
+    /* ──────────────────────────────────────────
+       NAV SCROLL
+    ────────────────────────────────────────── */
+    function scrollToSection(id, btn) {
+      const el = document.getElementById(id);
+      if (!el) return;
+      const offset = document.querySelector('.nav-wrap').offsetHeight + 12;
+      const top = el.getBoundingClientRect().top + window.scrollY - offset;
+      window.scrollTo({ top, behavior: 'smooth' });
+    }
+
+    /* Intersection observer → highlight active nav btn */
+    function setupObserver() {
+      const navHeight = document.querySelector('.nav-wrap').offsetHeight;
+      const sections  = document.querySelectorAll('.section');
+      const btns      = document.querySelectorAll('.nav-btn');
+
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(e => {
+          if (e.isIntersecting) {
+            btns.forEach(b => b.classList.remove('active'));
+            const active = document.querySelector(`.nav-btn[data-target="${e.target.id}"]`);
+            if (active) {
+              active.classList.add('active');
+              active.scrollIntoView({ inline: 'nearest', behavior: 'smooth', block: 'nearest' });
+            }
+          }
+        });
+      }, { rootMargin: `-${navHeight + 10}px 0px -60% 0px` });
+
+      sections.forEach(s => observer.observe(s));
+    }
+
+    /* ──────────────────────────────────────────
+       SCROLL TOP BUTTON
+    ────────────────────────────────────────── */
+    const scrollBtn = document.getElementById('scrollTopBtn');
+    window.addEventListener('scroll', () => {
+      scrollBtn.classList.toggle('visible', window.scrollY > 400);
+    }, { passive: true });
+
+    /* ──────────────────────────────────────────
+       DEMO DATA (fallback if menu.json not found)
+    ────────────────────────────────────────── */
+    const DEMO = {"name":"أرابياتا - Arabiata","tagline":"أصلي مصري عصري","currency":"ر.س","categories":[{"id":"fool_sandwiches","name":"سندوتشات الفول","icon":"🫘","items":[{"id":1,"name":"س فول ارابياتا","description":"فول بصلصة الطماطم الحارة مع البهارات والزيت","price":5,"calories":280,"image":"https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80","tags":["شعبي"],"available":true},{"id":2,"name":"س فول اسكندراني","description":"فول بالليمون والكمون وزيت الزيتون على الطريقة الإسكندرانية","price":7,"calories":300,"image":"https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80","tags":["الأكثر طلباً"],"available":true},{"id":3,"name":"فول بيض مسلوق","description":"فول مع بيض مسلوق وزيت وليمون","price":8.5,"calories":370,"image":"https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80","tags":[],"available":true}]},{"id":"taameya_sandwiches","name":"سندوتشات الطعمية","icon":"🥙","items":[{"id":20,"name":"س طعمية ارابياتا","description":"طعمية بصلصة الطماطم الحارة","price":6,"calories":310,"image":"https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80","tags":[],"available":true},{"id":21,"name":"س طعمية محشية","description":"طعمية محشوة بالخضروات والأعشاب","price":7,"calories":330,"image":"https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80","tags":["الأكثر طلباً"],"available":true},{"id":22,"name":"س طعمية اماطي","description":"طعمية بالسمسم والأعشاب الطازجة","price":6,"calories":300,"image":"https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80","tags":[],"available":true}]},{"id":"batatas_sandwiches","name":"سندوتشات البطاطس","icon":"🍟","items":[{"id":40,"name":"س بطاطس صوابع","description":"بطاطس مقرمشة على شكل أصابع","price":7,"calories":350,"image":"https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=400&q=80","tags":[],"available":true},{"id":41,"name":"س بطاطس شيبسي","description":"شيبسي مقرمش في عيش طازج","price":6,"calories":320,"image":"https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=400&q=80","tags":[],"available":true},{"id":42,"name":"س بطاطس كاتشب مايو","description":"بطاطس بكاتشب ومايونيز","price":9,"calories":430,"image":"https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=400&q=80","tags":["الأكثر طلباً"],"available":true}]}]};
+
+    /* ──────────────────────────────────────────
+       INIT
+    ────────────────────────────────────────── */
+    loadMenu();
+  </script>
+</body>
+</html>
