@@ -1557,7 +1557,7 @@
             "description": "سجق اسكندراني - من تشكيلة اطباق غربي المميزة",
             "price": 30.0,
             "calories": 470,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781530745/892_kjodld.jpg",
             "tags": [],
             "available": true
           },
@@ -1567,7 +1567,7 @@
             "description": "كبدة اسكندراني - من تشكيلة اطباق غربي المميزة",
             "price": 30.0,
             "calories": 470,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781530744/260626_e4u58n.webp",
             "tags": [],
             "available": true
           },
@@ -1803,7 +1803,7 @@
             "description": "سجق بالجبنه - من تشكيلة الطاسات المميزة",
             "price": 30.0,
             "calories": 470,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1813,7 +1813,7 @@
             "description": "مكسيكان - من تشكيلة الطاسات المميزة",
             "price": 30.0,
             "calories": 470,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1823,7 +1823,7 @@
             "description": "مسقعه لحمه مفروم - من تشكيلة الطاسات المميزة",
             "price": 25.0,
             "calories": 425,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1833,7 +1833,7 @@
             "description": "مسقعه بشاميل - من تشكيلة الطاسات المميزة",
             "price": 25.0,
             "calories": 425,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444156/%D9%85%D9%83%D8%B1%D9%88%D9%86%D8%A9_%D9%81%D8%B1%D9%86_qiecec.png",
             "tags": [],
             "available": true
           },
@@ -1843,7 +1843,7 @@
             "description": "مكرونة كبده - من تشكيلة الطاسات المميزة",
             "price": 20.0,
             "calories": 650,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444158/%D9%85%D9%83%D8%B1%D9%88%D9%86%D8%A9_%D8%A8%D8%A7%D9%84%D9%83%D8%A8%D8%AF%D8%A9_bj0mna.png",
             "tags": [],
             "available": true
           },
@@ -1853,7 +1853,7 @@
             "description": "مكرونة سجق - من تشكيلة الطاسات المميزة",
             "price": 20.0,
             "calories": 650,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444158/%D9%85%D9%83%D8%B1%D9%88%D9%86%D8%A9_%D8%A8%D8%A7%D9%84%D8%B3%D8%AC%D9%82_mir4s4.png",
             "tags": [],
             "available": true
           },
@@ -1863,7 +1863,7 @@
             "description": "مكرونة بالبشاميل والطماطم من الفرن",
             "price": 20.0,
             "calories": 580,
-            "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444156/%D9%85%D9%83%D8%B1%D9%88%D9%86%D8%A9_%D9%81%D8%B1%D9%86_qiecec.png",
             "tags": [
               "الأكثر طلباً"
             ],
@@ -1875,7 +1875,7 @@
             "description": "بولونيز - من تشكيلة الطاسات المميزة",
             "price": 20.0,
             "calories": 650,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1885,7 +1885,7 @@
             "description": "كانيونيلي - من تشكيلة الطاسات المميزة",
             "price": 25.0,
             "calories": 700,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781529224/item-67b20796e69cd_j7yjjr.png",
             "tags": [],
             "available": true
           },
@@ -1895,7 +1895,7 @@
             "description": "مكرونه ارابياتا - من تشكيلة الطاسات المميزة",
             "price": 15.0,
             "calories": 600,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           }
@@ -1912,7 +1912,7 @@
             "description": "براد شاي كبير - من تشكيلة المشروبات المميزة",
             "price": 15.0,
             "calories": 160,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781531185/44da70bb-bfb2-47fd-835d-df775fe2fa8f.png",
             "tags": [],
             "available": true
           },
@@ -1922,7 +1922,7 @@
             "description": "براد شاي أسود ساخن",
             "price": 10.0,
             "calories": 10,
-            "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781531185/44da70bb-bfb2-47fd-835d-df775fe2fa8f.png",
             "tags": [],
             "available": true
           },
@@ -1932,7 +1932,7 @@
             "description": "قهوه تركي - من تشكيلة المشروبات المميزة",
             "price": 10.0,
             "calories": 290,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781531242/images_amywua.jpg",
             "tags": [],
             "available": true
           },
@@ -1942,7 +1942,7 @@
             "description": "عصير ليمون - من تشكيلة المشروبات المميزة",
             "price": 14.0,
             "calories": 152,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444154/%D8%B9%D8%B5%D9%8A%D8%B1_%D9%84%D9%8A%D9%85%D9%88%D9%86_enlnaf.png",
             "tags": [],
             "available": true
           },
@@ -1952,7 +1952,7 @@
             "description": "برتقال - من تشكيلة المشروبات المميزة",
             "price": 16.0,
             "calories": 344,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781533861/Gemini_Generated_Image_3xc1yt3xc1yt3xc1_glbtoq.png",
             "tags": [],
             "available": true
           },
@@ -1962,7 +1962,7 @@
             "description": "مانجو - من تشكيلة المشروبات المميزة",
             "price": 16.0,
             "calories": 344,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444153/%D8%B9%D8%B5%D9%8A%D8%B1_%D9%85%D8%A7%D9%86%D8%AC%D9%88_oll5kn.png",
             "tags": [],
             "available": true
           },
@@ -1972,7 +1972,7 @@
             "description": "برتقال وجزر - من تشكيلة المشروبات المميزة",
             "price": 16.0,
             "calories": 344,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781533857/Gemini_Generated_Image_cxhg1vcxhg1vcxhg_ijehvf.png",
             "tags": [],
             "available": true
           },
@@ -1982,7 +1982,7 @@
             "description": "كركديه بارد أو ساخن",
             "price": 12.0,
             "calories": 30,
-            "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781533854/Gemini_Generated_Image_h1ott9h1ott9h1ot_vmorwc.png",
             "tags": [
               "صحي"
             ],
@@ -1994,7 +1994,7 @@
             "description": "افوكادو - من تشكيلة المشروبات المميزة",
             "price": 18.0,
             "calories": 362,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444154/%D8%A7%D9%81%D9%88%D9%83%D8%A7%D8%AA%D9%88_kkv5ls.jpg",
             "tags": [],
             "available": true
           },
@@ -2004,7 +2004,7 @@
             "description": "كينزا كولا - من تشكيلة مشروبات تيك اواى المميزة",
             "price": 5.0,
             "calories": 245,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781534157/726471_main_g3iyxt.avif",
             "tags": [],
             "available": true
           },
@@ -2014,7 +2014,7 @@
             "description": "كينزا كولا دايت - من تشكيلة المشروبات المميزة",
             "price": 5.0,
             "calories": 80,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781534154/6873c08a37a205b2eec0fcec_mvoimo.png",
             "tags": [],
             "available": true
           },
@@ -2024,7 +2024,7 @@
             "description": "كينزا ليمون - من تشكيلة مشروبات تيك اواى المميزة",
             "price": 5.0,
             "calories": 245,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781534127/images_bhaxhy.jpg",
             "tags": [],
             "available": true
           },
@@ -2034,7 +2034,7 @@
             "description": "كينزا ليمون دايت - من تشكيلة المشروبات المميزة",
             "price": 5.0,
             "calories": 245,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781534139/images_z7i89w.jpg",
             "tags": [],
             "available": true
           },
@@ -2044,7 +2044,7 @@
             "description": "كينزا برتقال - من تشكيلة مشروبات تيك اواى المميزة",
             "price": 5.0,
             "calories": 245,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781534114/517356578046774094c60e0d3_25047069_vhipwt.jpg",
             "tags": [],
             "available": true
           },
@@ -2054,7 +2054,7 @@
             "description": "حمضيات - من تشكيلة المشروبات المميزة",
             "price": 5.0,
             "calories": 80,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781534147/417356408746773c72a78fd57_35713378_hdnojj.png",
             "tags": [],
             "available": true
           },
@@ -2064,7 +2064,7 @@
             "description": "مياه - من تشكيلة المشروبات المميزة",
             "price": 3.0,
             "calories": 64,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781534855/pngtree-mineral-water-bottle-png-image_13600124_ykatla.png",
             "tags": [],
             "available": true
           },
@@ -2074,7 +2074,7 @@
             "description": "كوباية شاي - من تشكيلة المشروبات المميزة",
             "price": 5.0,
             "calories": 80,
-            "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781534963/c102d112-6454-4b9e-bc3a-134773bbcc9e.png",
             "tags": [],
             "available": true
           }
@@ -2088,30 +2088,30 @@
           {
             "id": 1193,
             "name": "لمتنا",
-            "description": "لمتنا - من تشكيلة العروض الغربي المميزة",
+            "description": "٤ أرباع فراخ - 6 قطع شيش - 6 صوابع كفته - ٤ نص حواوشي - مع السلطه والطحينه",
             "price": 119.0,
             "calories": 1271,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781535138/77061fe8-7432-49a7-9255-772ce3178c75.png",
             "tags": [],
             "available": true
           },
           {
             "id": 1194,
             "name": "بوكس العشره",
-            "description": "بوكس العشره - من تشكيلة العروض الغربي المميزة",
+            "description": "٢ كفتة ، ٢ شيش، ٢ كبده ، ٢ سجق ، ٢ نص حواوشي",
             "price": 50.0,
             "calories": 650,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781535262/5bfcbe03-dda8-4dc9-9530-fb63faac2b87.png",
             "tags": [],
             "available": true
           },
           {
             "id": 1195,
             "name": "وجبه عائلية",
-            "description": "وجبه عائلية - من تشكيلة العروض الغربي المميزة",
+            "description": "عدد 1 دجاجة مشويه على الفحم 8 صابع كفته 10 قطعة شيش كيلو ارز بسمتى مع طبق سلطة طبق طحينه 4 كينزا 12 خبز",
             "price": 149.0,
             "calories": 1541,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781535364/8d1f27b5-02bc-4d7b-b548-2fa7395d3ef1.png",
             "tags": [],
             "available": true
           },
@@ -2121,7 +2121,7 @@
             "description": "عرض ال 3 الموفر - من تشكيلة العروض الغربي المميزة",
             "price": 18.0,
             "calories": 362,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781535095/IMG_2637_z2zzux.jpg",
             "tags": [],
             "available": true
           }
@@ -2138,7 +2138,7 @@
             "description": "وجبة نص دجاجه - من تشكيلة مهرجان ال20 المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781535717/Screenshot_2026-06-15_180103_fcrgml.png",
             "tags": [],
             "available": true
           },
@@ -2148,7 +2148,7 @@
             "description": "وجبة شيش - من تشكيلة مهرجان ال20 المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781535700/1474caa6-37d4-4c79-8fd4-08126fcd4ff4.png",
             "tags": [],
             "available": true
           },
@@ -2158,7 +2158,7 @@
             "description": "وجبة ميكس - من تشكيلة مهرجان ال20 المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781535732/Screenshot_2026-06-15_180125_hsimjq.png",
             "tags": [],
             "available": true
           },
@@ -2168,24 +2168,7 @@
             "description": "بوكس المهرجان - من تشكيلة مهرجان ال20 المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
-            "tags": [],
-            "available": true
-          }
-        ]
-      },
-      {
-        "id": "cat_21",
-        "name": "العروض الشرقي",
-        "icon": "🎁",
-        "items": [
-          {
-            "id": 1201,
-            "name": "بوكس ال 3",
-            "description": "بوكس ال 3 - من تشكيلة العروض الشرقي المميزة",
-            "price": 18.0,
-            "calories": 362,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781535739/Screenshot_2026-06-15_180159_uzf9po.png",
             "tags": [],
             "available": true
           }
