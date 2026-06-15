@@ -15,7 +15,7 @@
             "description": "مخللات مشكلة تقليدية",
             "price": 3.0,
             "calories": 60,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444121/%D9%85%D8%AE%D9%84%D9%84_uw6ohh.png",
             "tags": [],
             "available": true
           },
@@ -25,7 +25,7 @@
             "description": "طماطم مخللة - من تشكيلة ارابياتا المميزة",
             "price": 7.0,
             "calories": 64,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504096/images_vmhxpv.jpg",
             "tags": [],
             "available": true
           },
@@ -35,7 +35,7 @@
             "description": "سلطه خضرا - من تشكيلة سلاطات المميزة",
             "price": 7.0,
             "calories": 64,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444127/%D8%B3%D9%84%D8%B7%D9%87_%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1_witesc.png",
             "tags": [],
             "available": true
           },
@@ -45,7 +45,7 @@
             "description": "باذنجان مخلل - من تشكيلة سلاطات الصاله المميزة",
             "price": 7.0,
             "calories": 64,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504009/images_ihu0yn.jpg",
             "tags": [],
             "available": true
           },
@@ -55,7 +55,7 @@
             "description": "طحينه - من خلطة ارابياتا المميزة",
             "price": 10.0,
             "calories": 290,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444128/%D8%B7%D8%AD%D9%8A%D9%86%D8%A9_q2ipoq.png",
             "tags": [],
             "available": true
           },
@@ -65,7 +65,7 @@
             "description": "باذنجان مشوي بالطحينة",
             "price": 10.0,
             "calories": 200,
-            "image": "https://images.unsplash.com/photo-1576488484814-b0958e673cd0?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444127/%D8%A8%D8%A7%D8%A8%D8%A7_%D8%BA%D9%86%D9%88%D8%AC_wzucxq.png",
             "tags": [
               "نباتي"
             ],
@@ -77,7 +77,7 @@
             "description": "حمص - من تشكيلة سلاطات المميزة",
             "price": 10.0,
             "calories": 290,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444127/%D8%A8%D8%A7%D8%A8%D8%A7_%D8%BA%D9%86%D9%88%D8%AC_wzucxq.png",
             "tags": [],
             "available": true
           },
@@ -87,7 +87,7 @@
             "description": "فتوش - من تشكيلة سلاطات المميزة",
             "price": 15.0,
             "calories": 335,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444122/%D9%81%D8%A7%D8%AA%D9%88%D8%B4_qm4qwo.png",
             "tags": [],
             "available": true
           },
@@ -97,7 +97,7 @@
             "description": "جبنه بالطماطم - من تشكيلة سلاطات المميزة",
             "price": 12.0,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444136/%D8%AC%D8%A8%D9%86%D9%87_%D8%B7%D9%85%D8%A7%D8%B7%D9%85_k8wu2u.png",
             "tags": [],
             "available": true
           }
@@ -114,7 +114,7 @@
             "description": "شوربة عدس أصفر بالكمون والليمون",
             "price": 12.0,
             "calories": 220,
-            "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781503590/caa4d5b2-5410-4977-a302-f54f79d5b3e1_wcjsiw.jpg",
             "tags": [
               "صحي"
             ],
@@ -126,7 +126,7 @@
             "description": "شوربة لسان - من تشكيلة الشوربة المميزة",
             "price": 12.0,
             "calories": 180,
-            "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444133/%D9%84%D8%B3%D8%A7%D9%86_%D8%B9%D8%B5%D9%81%D9%88%D8%B1_s6g5j0.png",
             "tags": [],
             "available": true
           },
@@ -136,7 +136,7 @@
             "description": "شوربة مشروم كريمية فاخرة",
             "price": 15.0,
             "calories": 240,
-            "image": "https://images.unsplash.com/photo-1574179952032-19e7a5d0c2f0?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444131/%D8%B4%D9%88%D8%B1%D8%A8%D8%A9_%D9%83%D8%B1%D9%8A%D9%85%D8%A9_agdmjx.png",
             "tags": [
               "فاخر"
             ],
@@ -148,7 +148,7 @@
             "description": "ملوخية خضراء مطبوخة بالثوم",
             "price": 12.0,
             "calories": 180,
-            "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444132/%D9%85%D9%84%D9%88%D8%AE%D9%8A%D8%A9_wdtflh.png",
             "tags": [
               "صحي"
             ],
@@ -167,7 +167,7 @@
             "description": "بطاطس صوابع - من تشكيلة مقبلات المميزة",
             "price": 12.0,
             "calories": 420,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444137/%D8%AA%D8%AD%D8%A7%D8%A8%D9%8A%D8%B4_zx7ucc.png",
             "tags": [],
             "available": true
           },
@@ -177,7 +177,7 @@
             "description": "شيبسي - من تشكيلة مقبلات المميزة",
             "price": 10.0,
             "calories": 290,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444137/%D8%B4%D9%8A%D8%A8%D8%B3%D9%89_xej9jx.png",
             "tags": [],
             "available": true
           },
@@ -187,7 +187,7 @@
             "description": "تحابيش - من تشكيلة مقبلات المميزة",
             "price": 15.0,
             "calories": 335,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444137/%D8%AA%D8%AD%D8%A7%D8%A8%D9%8A%D8%B4_zx7ucc.png",
             "tags": [],
             "available": true
           },
@@ -197,7 +197,7 @@
             "description": "بيوريه بالزبده - من تشكيلة مقبلات المميزة",
             "price": 15.0,
             "calories": 335,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444134/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D8%A8%D9%88%D8%B1%D9%8A%D8%A9_hu80jb.png",
             "tags": [],
             "available": true
           },
@@ -207,7 +207,7 @@
             "description": "بصاره - من تشكيلة مقبلات المميزة",
             "price": 12.0,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444133/%D8%A8%D8%B5%D8%A7%D8%B1%D8%A9_brpiob.png",
             "tags": [],
             "available": true
           },
@@ -217,7 +217,7 @@
             "description": "حلوم مشوي - من تشكيلة مقبلات المميزة",
             "price": 30.0,
             "calories": 470,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781503726/download_u7iynd.jpg",
             "tags": [],
             "available": true
           },
@@ -227,7 +227,7 @@
             "description": "جبنه مقليه - من تشكيلة مقبلات المميزة",
             "price": 22.0,
             "calories": 398,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781503825/download_khdvxp.jpg",
             "tags": [],
             "available": true
           },
@@ -237,7 +237,7 @@
             "description": "باذنجان حرش - من تشكيلة مقبلات المميزة",
             "price": 12.0,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504009/images_ihu0yn.jpg",
             "tags": [],
             "available": true
           }
@@ -254,7 +254,7 @@
             "description": "فول بصلصة الطماطم الحارة مع البهارات",
             "price": 12.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D9%85%D8%AD%D9%88%D8%AC_s1xsxb.jpg",
             "tags": [
               "الأكثر طلباً"
             ],
@@ -266,7 +266,7 @@
             "description": "فول زيت حار - من تشكيلة اطباق الفول المميزة",
             "price": 14.0,
             "calories": 362,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444140/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%AD%D8%A7%D8%B1_argaxm.jpg",
             "tags": [],
             "available": true
           },
@@ -276,7 +276,7 @@
             "description": "فول زيت زيتون - من تشكيلة اطباق الفول المميزة",
             "price": 15.0,
             "calories": 370,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_dkqd1q.png",
             "tags": [],
             "available": true
           },
@@ -286,7 +286,7 @@
             "description": "فول زبدة - من تشكيلة اطباق الفول المميزة",
             "price": 15.0,
             "calories": 370,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D8%A8%D8%A7%D9%84%D8%B0%D8%A8%D8%AF%D8%A9_qo523a.png",
             "tags": [],
             "available": true
           },
@@ -296,7 +296,7 @@
             "description": "فول سوسيس وجبنه رومي - من تشكيلة اطباق الفول المميزة",
             "price": 18.0,
             "calories": 394,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_dkqd1q.png",
             "tags": [],
             "available": true
           },
@@ -306,7 +306,7 @@
             "description": "فول بيض مقلي - من تشكيلة اطباق الفول المميزة",
             "price": 16.0,
             "calories": 378,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_dkqd1q.png",
             "tags": [],
             "available": true
           },
@@ -316,7 +316,7 @@
             "description": "فول مع بيض مسلوق وزيت وليمون",
             "price": 16.0,
             "calories": 370,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444140/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%AD%D8%A7%D8%B1_argaxm.jpg",
             "tags": [],
             "available": true
           },
@@ -326,7 +326,7 @@
             "description": "فول بالليمون والكمون وزيت الزيتون",
             "price": 16.0,
             "calories": 360,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444139/%D9%81%D9%88%D9%84_%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D9%89_r3td32.jpg",
             "tags": [],
             "available": true
           },
@@ -336,7 +336,7 @@
             "description": "فول سوهاجي - من تشكيلة اطباق الفول المميزة",
             "price": 16.0,
             "calories": 378,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_dkqd1q.png",
             "tags": [],
             "available": true
           },
@@ -346,7 +346,7 @@
             "description": "فول حمص - من تشكيلة اطباق الفول المميزة",
             "price": 15.0,
             "calories": 370,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_dkqd1q.png",
             "tags": [],
             "available": true
           },
@@ -356,7 +356,7 @@
             "description": "فول باذنجان - من تشكيلة اطباق الفول المميزة",
             "price": 17.0,
             "calories": 386,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_dkqd1q.png",
             "tags": [],
             "available": true
           },
@@ -366,7 +366,7 @@
             "description": "فول بالسجق - من تشكيلة اطباق الفول المميزة",
             "price": 18.0,
             "calories": 394,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_dkqd1q.png",
             "tags": [],
             "available": true
           },
@@ -376,7 +376,7 @@
             "description": "فول بالصلصه - من تشكيلة اطباق الفول المميزة",
             "price": 15.0,
             "calories": 370,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444143/%D9%81%D9%88%D9%84_%D8%B2%D9%8A%D8%AA_%D8%B2%D9%8A%D8%AA%D9%88%D9%86_dkqd1q.png",
             "tags": [],
             "available": true
           },
@@ -386,7 +386,7 @@
             "description": "فول ليمون معصفر - من تشكيلة اطباق الفول المميزة",
             "price": 16.0,
             "calories": 378,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444142/%D9%81%D9%88%D9%84_%D9%84%D9%8A%D9%85%D9%88%D9%86_%D9%85%D8%B9%D8%B5%D9%81%D8%B1_dvgncw.png",
             "tags": [],
             "available": true
           }
@@ -403,7 +403,7 @@
             "description": "فول بصلصة الطماطم الحارة مع البهارات",
             "price": 5.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504541/%D9%81%D9%88%D9%84_%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D9%89_nv5qtt.jpg",
             "tags": [
               "الأكثر طلباً"
             ],
@@ -415,7 +415,7 @@
             "description": "فول زيت حار - من تشكيلة ساندوتشات فول المميزة",
             "price": 7.0,
             "calories": 306,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504546/%D9%81%D9%88%D9%84_%D8%AF%D9%85%D9%8A%D8%A7%D8%B7%D9%89_msook9.jpg",
             "tags": [],
             "available": true
           },
@@ -425,7 +425,7 @@
             "description": "فول زيت زيتون - من تشكيلة ساندوتشات فول المميزة",
             "price": 7.0,
             "calories": 306,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504546/%D9%81%D9%88%D9%84_%D8%AF%D9%85%D9%8A%D8%A7%D8%B7%D9%89_msook9.jpg",
             "tags": [],
             "available": true
           },
@@ -435,7 +435,7 @@
             "description": "فول زبدة - من تشكيلة ساندوتشات فول المميزة",
             "price": 7.0,
             "calories": 306,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504546/%D9%81%D9%88%D9%84_%D8%AF%D9%85%D9%8A%D8%A7%D8%B7%D9%89_msook9.jpg",
             "tags": [],
             "available": true
           },
@@ -445,7 +445,7 @@
             "description": "فول سوسيس وجبنه رومي - من تشكيلة ساندوتشات فول المميزة",
             "price": 9.0,
             "calories": 322,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504544/%D9%81%D9%88%D9%84_%D8%A8%D9%8A%D8%B6_%D9%85%D9%82%D9%84%D9%89_dn4jqc.jpg",
             "tags": [],
             "available": true
           },
@@ -455,7 +455,7 @@
             "description": "فول بيض مقلي - من تشكيلة ساندوتشات فول المميزة",
             "price": 9.0,
             "calories": 322,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504544/%D9%81%D9%88%D9%84_%D8%A8%D9%8A%D8%B6_%D9%85%D9%82%D9%84%D9%89_dn4jqc.jpg",
             "tags": [],
             "available": true
           },
@@ -465,7 +465,7 @@
             "description": "فول مع بيض مسلوق وزيت وليمون",
             "price": 8.5,
             "calories": 370,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504543/%D9%81%D9%88%D9%84_%D8%A8%D9%8A%D8%B6_%D9%85%D8%B3%D9%84%D9%88%D9%82_p1yp1o.jpg",
             "tags": [],
             "available": true
           },
@@ -475,7 +475,7 @@
             "description": "فول مكس - من تشكيلة ساندوتشات فول المميزة",
             "price": 8.0,
             "calories": 314,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504555/%D9%81%D9%88%D9%84_%D9%85%D8%B9_%D8%B7%D8%B9%D9%85%D9%8A%D9%87_w6ioji.jpg",
             "tags": [],
             "available": true
           },
@@ -485,7 +485,7 @@
             "description": "فول بالليمون والكمون وزيت الزيتون",
             "price": 7.0,
             "calories": 360,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504539/%D9%81%D9%88%D9%84_%D8%A7%D8%B1%D8%A7%D8%A8%D9%8A%D8%A7%D8%AA%D8%A7_r2y8rm.jpg",
             "tags": [],
             "available": true
           },
@@ -495,7 +495,7 @@
             "description": "فول سوهاجي - من تشكيلة ساندوتشات فول المميزة",
             "price": 7.0,
             "calories": 306,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504539/%D9%81%D9%88%D9%84_%D8%A7%D8%B1%D8%A7%D8%A8%D9%8A%D8%A7%D8%AA%D8%A7_r2y8rm.jpg",
             "tags": [],
             "available": true
           },
@@ -505,7 +505,7 @@
             "description": "فول حمص - من تشكيلة ساندوتشات فول المميزة",
             "price": 7.0,
             "calories": 306,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504545/%D9%81%D9%88%D9%84_%D8%AD%D9%85%D8%B5_jlpsz7.jpg",
             "tags": [],
             "available": true
           },
@@ -515,7 +515,7 @@
             "description": "فول باذنجان - من تشكيلة ساندوتشات فول المميزة",
             "price": 8.0,
             "calories": 314,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504558/%D9%85%D8%B3%D9%82%D8%B9%D9%871_k1j4j0.jpg",
             "tags": [],
             "available": true
           },
@@ -525,7 +525,7 @@
             "description": "فول بالسجق - من تشكيلة ساندوتشات فول المميزة",
             "price": 10.0,
             "calories": 330,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504552/%D9%81%D9%88%D9%84_%D8%B3%D8%AC%D9%82_tnweuy.jpg",
             "tags": [],
             "available": true
           },
@@ -535,7 +535,7 @@
             "description": "فول بالصلصه - من تشكيلة ساندوتشات فول المميزة",
             "price": 7.5,
             "calories": 310,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504552/%D9%81%D9%88%D9%84_%D8%B3%D8%AC%D9%82_tnweuy.jpg",
             "tags": [],
             "available": true
           },
@@ -545,7 +545,7 @@
             "description": "فول ليمون معصفر - من تشكيلة ساندوتشات فول المميزة",
             "price": 7.0,
             "calories": 306,
-            "image": "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504554/%D9%81%D9%88%D9%84_%D9%84%D9%85%D9%88%D9%86_%D9%85%D8%B9%D8%B5%D9%81%D8%B1_ge4srn.jpg",
             "tags": [],
             "available": true
           }
@@ -562,7 +562,7 @@
             "description": "طعميه ارابيتا - من تشكيلة اطباق الفلافل والتحابيش المميزة",
             "price": 3.5,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444139/%D9%81%D9%84%D8%A7%D9%81%D9%84_svp2nu.png",
             "tags": [],
             "available": true
           },
@@ -572,7 +572,7 @@
             "description": "طعميه محشية - من تشكيلة اطباق الفلافل والتحابيش المميزة",
             "price": 4.0,
             "calories": 312,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781506744/2f2d0cc8-cc4d-402b-86ba-8f358f5f1edb.png",
             "tags": [],
             "available": true
           },
@@ -582,7 +582,7 @@
             "description": "طعميه اماطي - من تشكيلة اطباق الفلافل والتحابيش المميزة",
             "price": 6.0,
             "calories": 328,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444139/%D9%81%D9%84%D8%A7%D9%81%D9%84_%D8%A7%D9%85%D8%A7%D8%B7%D9%89_lfqmfj.png",
             "tags": [],
             "available": true
           },
@@ -592,7 +592,7 @@
             "description": "طعميه كيري - من تشكيلة اطباق الفلافل والتحابيش المميزة",
             "price": 4.0,
             "calories": 312,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781506744/2f2d0cc8-cc4d-402b-86ba-8f358f5f1edb.png",
             "tags": [],
             "available": true
           },
@@ -602,7 +602,7 @@
             "description": "طعميه ليمون معصفر - من تشكيلة اطباق الفلافل والتحابيش المميزة",
             "price": 4.0,
             "calories": 312,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781506744/2f2d0cc8-cc4d-402b-86ba-8f358f5f1edb.png",
             "tags": [],
             "available": true
           },
@@ -612,7 +612,7 @@
             "description": "عجه بلدي - من تشكيلة اطباق الفلافل والتحابيش المميزة",
             "price": 12.0,
             "calories": 400,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444139/%D8%B9%D8%AC%D8%A9_tpcgke.png",
             "tags": [],
             "available": true
           },
@@ -622,7 +622,7 @@
             "description": "عين كتكوت - من تشكيلة اطباق الفلافل والتحابيش المميزة",
             "price": 6.0,
             "calories": 254,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -632,7 +632,7 @@
             "description": "طعميه كيري بسطرمه - من تشكيلة اطباق الفلافل والتحابيش المميزة",
             "price": 6.0,
             "calories": 328,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781506744/2f2d0cc8-cc4d-402b-86ba-8f358f5f1edb.png",
             "tags": [],
             "available": true
           },
@@ -642,7 +642,7 @@
             "description": "باذنجان مقلي - من تشكيلة اطباق الفلافل والتحابيش المميزة",
             "price": 7.0,
             "calories": 263,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444137/%D8%AA%D8%AD%D8%A7%D8%A8%D9%8A%D8%B4_zx7ucc.png",
             "tags": [],
             "available": true
           }
@@ -659,7 +659,7 @@
             "description": "طعميه ارابيتا - من تشكيلة ساندوتشات الفلافل المميزة",
             "price": 6.0,
             "calories": 328,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504534/%D8%B3%D9%86%D8%AF%D9%88%D8%AA%D8%B4_%D9%81%D9%84%D8%A7%D9%81%D9%84_ob5yuh.jpg",
             "tags": [],
             "available": true
           },
@@ -669,7 +669,7 @@
             "description": "طعميه محشية - من تشكيلة ساندوتشات الفلافل المميزة",
             "price": 9.0,
             "calories": 352,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504534/%D8%B3%D9%86%D8%AF%D9%88%D8%AA%D8%B4_%D9%81%D9%84%D8%A7%D9%81%D9%84_ob5yuh.jpg",
             "tags": [],
             "available": true
           },
@@ -679,7 +679,7 @@
             "description": "طعميه اماطي - من تشكيلة ساندوتشات الفلافل المميزة",
             "price": 6.0,
             "calories": 328,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504537/%D9%81%D9%84%D8%A7%D9%81%D9%84_%D9%85%D8%AD%D8%B4%D9%8A%D8%A9_knih11.jpg",
             "tags": [],
             "available": true
           },
@@ -689,7 +689,7 @@
             "description": "طعميه تحابيش - من تشكيلة سندوتشات الطعمية المميزة",
             "price": 9.0,
             "calories": 352,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504529/%D8%AA%D8%AD%D8%A7%D8%A8%D9%8A%D8%B4_kkcxmu.jpg",
             "tags": [],
             "available": true
           },
@@ -699,7 +699,7 @@
             "description": "طعميه باذنجان - من تشكيلة ساندوتشات الفلافل المميزة",
             "price": 9.0,
             "calories": 352,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504530/%D8%A8%D8%B0%D9%86%D8%AC%D8%A7%D9%86_%D8%B9%D9%84%D9%89_%D8%B7%D8%B9%D9%85%D9%8A%D8%A9_mgslbf.png",
             "tags": [],
             "available": true
           },
@@ -709,7 +709,7 @@
             "description": "طعميه بيض مسلوق - من تشكيلة ساندوتشات الفلافل المميزة",
             "price": 10.0,
             "calories": 360,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504534/%D8%B3%D9%86%D8%AF%D9%88%D8%AA%D8%B4_%D9%81%D9%84%D8%A7%D9%81%D9%84_ob5yuh.jpg",
             "tags": [],
             "available": true
           },
@@ -719,7 +719,7 @@
             "description": "طعميه كيري - من تشكيلة ساندوتشات الفلافل المميزة",
             "price": 10.0,
             "calories": 360,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504534/%D8%B3%D9%86%D8%AF%D9%88%D8%AA%D8%B4_%D9%81%D9%84%D8%A7%D9%81%D9%84_ob5yuh.jpg",
             "tags": [],
             "available": true
           },
@@ -729,7 +729,7 @@
             "description": "طعميه ليمون معصفر - من تشكيلة ساندوتشات الفلافل المميزة",
             "price": 10.0,
             "calories": 360,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504534/%D8%B3%D9%86%D8%AF%D9%88%D8%AA%D8%B4_%D9%81%D9%84%D8%A7%D9%81%D9%84_ob5yuh.jpg",
             "tags": [],
             "available": true
           },
@@ -739,7 +739,7 @@
             "description": "عجه بلدي - من تشكيلة ساندوتشات الفلافل المميزة",
             "price": 10.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504537/%D9%81%D9%84%D8%A7%D9%81%D9%84_%D9%85%D8%AD%D8%B4%D9%8A%D8%A9_knih11.jpg",
             "tags": [],
             "available": true
           },
@@ -749,7 +749,7 @@
             "description": "طعميه كيري بسطرمه - من تشكيلة ساندوتشات الفلافل المميزة",
             "price": 12.0,
             "calories": 376,
-            "image": "https://images.unsplash.com/photo-1529006557810-274c12d6b07c?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504534/%D8%B3%D9%86%D8%AF%D9%88%D8%AA%D8%B4_%D9%81%D9%84%D8%A7%D9%81%D9%84_ob5yuh.jpg",
             "tags": [],
             "available": true
           },
@@ -776,7 +776,7 @@
             "description": "بيض مسلوق - من تشكيلة اطباق البيض المميزة",
             "price": 14.0,
             "calories": 420,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781507202/675_abcjxr.jpg",
             "tags": [],
             "available": true
           },
@@ -786,7 +786,7 @@
             "description": "اومليت ساده - من تشكيلة اطباق البيض المميزة",
             "price": 13.0,
             "calories": 410,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444139/%D8%A8%D9%8A%D8%B6_%D9%85%D9%82%D9%84%D9%89_iwy1qk.png",
             "tags": [],
             "available": true
           },
@@ -796,7 +796,7 @@
             "description": "عيون - من تشكيلة اطباق البيض المميزة",
             "price": 14.0,
             "calories": 326,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781507706/0ad471b1-ee88-4abb-b0d6-07693c01bf1e.png",
             "tags": [],
             "available": true
           },
@@ -806,7 +806,7 @@
             "description": "بيض سجق - من تشكيلة اطباق البيض المميزة",
             "price": 25.0,
             "calories": 530,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444144/%D8%A8%D9%8A%D8%B6_%D8%A7%D8%A8%D8%A7%D8%AA%D8%B4%D9%89_%D8%B7%D8%A8%D9%82_waotey.png",
             "tags": [],
             "available": true
           },
@@ -816,7 +816,7 @@
             "description": "اومليت بسطرمه رومي - من تشكيلة اطباق البيض المميزة",
             "price": 22.0,
             "calories": 500,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444135/%D8%A8%D9%8A%D8%B6_%D8%A8%D8%B3%D8%B7%D8%B1%D9%85%D8%A7_oc8w9y.png",
             "tags": [],
             "available": true
           },
@@ -826,7 +826,7 @@
             "description": "أباتشي - من تشكيلة اطباق البيض المميزة",
             "price": 22.0,
             "calories": 500,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444134/%D8%A8%D9%8A%D8%B6_%D8%A7%D8%A8%D8%A7%D8%AA%D8%B4%D9%89_mqwqaz.png",
             "tags": [],
             "available": true
           },
@@ -836,7 +836,7 @@
             "description": "اومليت جبنه شيدر - من تشكيلة اطباق البيض المميزة",
             "price": 18.0,
             "calories": 460,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444138/%D8%A8%D9%8A%D8%B6_%D8%AA%D8%B1%D8%A7%D9%81%D9%84_eqfllf.png",
             "tags": [],
             "available": true
           },
@@ -846,7 +846,7 @@
             "description": "اومليت جبنه رومي - من تشكيلة اطباق البيض المميزة",
             "price": 18.0,
             "calories": 460,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444138/%D8%A8%D9%8A%D8%B6_%D8%AA%D8%B1%D8%A7%D9%81%D9%84_eqfllf.png",
             "tags": [],
             "available": true
           },
@@ -856,7 +856,7 @@
             "description": "بيض مدحرج - من تشكيلة اطباق البيض المميزة",
             "price": 14.0,
             "calories": 420,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444138/%D8%A8%D9%8A%D8%B6_%D9%85%D8%AF%D8%AD%D8%B1%D8%AC_ayp992.png",
             "tags": [],
             "available": true
           },
@@ -866,27 +866,27 @@
             "description": "شكشوكة - من تشكيلة اطباق البيض المميزة",
             "price": 15.0,
             "calories": 430,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444127/%D8%B4%D9%83%D8%B4%D9%88%D9%83%D8%A9_bfjfpm.png",
             "tags": [],
             "available": true
           },
           {
             "id": 1080,
-            "name": "بسطرمه",
+            "name": "بيض بسطرمه",
             "description": "بسطرمه - من تشكيلة اطباق البيض المميزة",
             "price": 20.0,
             "calories": 300,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444135/%D8%A8%D9%8A%D8%B6_%D8%A8%D8%B3%D8%B7%D8%B1%D9%85%D8%A7_oc8w9y.png",
             "tags": [],
             "available": true
           },
           {
             "id": 1081,
-            "name": "بيتزا",
+            "name": "بيض بيتزا",
             "description": "بيتزا - من تشكيلة اطباق البيض المميزة",
             "price": 18.0,
             "calories": 362,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444134/%D8%A8%D9%8A%D8%B6_%D8%A7%D8%A8%D8%A7%D8%AA%D8%B4%D9%89_mqwqaz.png",
             "tags": [],
             "available": true
           },
@@ -896,7 +896,7 @@
             "description": "بيض مكس جبن - من تشكيلة اطباق البيض المميزة",
             "price": 20.0,
             "calories": 480,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444134/%D8%A8%D9%8A%D8%B6_%D8%A7%D8%A8%D8%A7%D8%AA%D8%B4%D9%89_mqwqaz.png",
             "tags": [],
             "available": true
           }
@@ -913,7 +913,7 @@
             "description": "بيض مسلوق - من تشكيلة ساندوتشات البيض المميزة",
             "price": 7.0,
             "calories": 350,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781508547/669edadf-d9e5-470a-9211-95716defaf9f.png",
             "tags": [],
             "available": true
           },
@@ -923,7 +923,7 @@
             "description": "اومليت ساده - من تشكيلة ساندوتشات البيض المميزة",
             "price": 8.0,
             "calories": 360,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781508626/63d5ebc5-0a1c-460b-94c6-e947c3fe63b9.png",
             "tags": [],
             "available": true
           },
@@ -933,7 +933,7 @@
             "description": "بيض سجق - من تشكيلة ساندوتشات البيض المميزة",
             "price": 12.0,
             "calories": 400,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444145/%D8%A8%D9%8A%D8%B6_%D8%A7%D8%A8%D8%A7%D8%AA%D8%B4%D9%89_yjhen6.png",
             "tags": [],
             "available": true
           },
@@ -943,7 +943,7 @@
             "description": "اومليت بسطرمه رومي - من تشكيلة ساندوتشات البيض المميزة",
             "price": 12.0,
             "calories": 400,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444126/%D8%A8%D9%8A%D8%B6_%D8%A8%D8%B3%D8%B7%D8%B1%D9%85%D8%A7_opwswq.png",
             "tags": [],
             "available": true
           },
@@ -953,7 +953,7 @@
             "description": "أباتشي - من تشكيلة ساندوتشات البيض المميزة",
             "price": 12.0,
             "calories": 400,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444145/%D8%A8%D9%8A%D8%B6_%D8%A7%D8%A8%D8%A7%D8%AA%D8%B4%D9%89_yjhen6.png",
             "tags": [],
             "available": true
           },
@@ -963,7 +963,7 @@
             "description": "اومليت جبنه شيدر - من تشكيلة ساندوتشات البيض المميزة",
             "price": 10.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444124/%D8%A8%D9%8A%D8%B6_%D9%85%D9%82%D9%84%D9%89_%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_ge3ybb.png",
             "tags": [],
             "available": true
           },
@@ -973,7 +973,7 @@
             "description": "اومليت جبنه رومي - من تشكيلة ساندوتشات البيض المميزة",
             "price": 10.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444124/%D8%A8%D9%8A%D8%B6_%D9%85%D9%82%D9%84%D9%89_%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_ge3ybb.png",
             "tags": [],
             "available": true
           },
@@ -983,27 +983,27 @@
             "description": "شكشوكة - من تشكيلة ساندوتشات البيض المميزة",
             "price": 11.0,
             "calories": 390,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444127/%D8%B4%D9%83%D8%B4%D9%88%D9%83%D8%A9_bfjfpm.png",
             "tags": [],
             "available": true
           },
           {
             "id": 1091,
-            "name": "بسطرمه",
+            "name": "بيض بسطرمه",
             "description": "بسطرمه - من تشكيلة ساندوتشات البيض المميزة",
             "price": 12.0,
             "calories": 180,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444126/%D8%A8%D9%8A%D8%B6_%D8%A8%D8%B3%D8%B7%D8%B1%D9%85%D8%A7_opwswq.png",
             "tags": [],
             "available": true
           },
           {
             "id": 1092,
-            "name": "بيتزا",
+            "name": "بيض بيتزا",
             "description": "بيتزا - من تشكيلة ساندوتشات البيض المميزة",
             "price": 10.0,
             "calories": 290,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1013,7 +1013,7 @@
             "description": "بيض مكس جبن - من تشكيلة ساندوتشات البيض المميزة",
             "price": 11.0,
             "calories": 390,
-            "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           }
@@ -1686,7 +1686,7 @@
             "description": "لحم مفروم - من تشكيلة إضافات المميزة",
             "price": 7.0,
             "calories": 105,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1696,7 +1696,7 @@
             "description": "سوسيس - من تشكيلة إضافات المميزة",
             "price": 5.0,
             "calories": 75,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1706,7 +1706,7 @@
             "description": "بسطرمه - من تشكيلة إضافات المميزة",
             "price": 5.0,
             "calories": 75,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1716,7 +1716,7 @@
             "description": "شيدر - من تشكيلة إضافات المميزة",
             "price": 4.0,
             "calories": 60,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1726,7 +1726,7 @@
             "description": "جبنه رومي - من تشكيلة إضافات المميزة",
             "price": 4.0,
             "calories": 60,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1736,7 +1736,7 @@
             "description": "موزريلا - من تشكيلة إضافات المميزة",
             "price": 4.0,
             "calories": 60,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1746,7 +1746,7 @@
             "description": "بيضه 1 - من تشكيلة إضافات المميزة",
             "price": 4.0,
             "calories": 60,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1756,7 +1756,7 @@
             "description": "ارز شعريه - من تشكيلة إضافات المميزة",
             "price": 8.0,
             "calories": 120,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1766,7 +1766,7 @@
             "description": "ارز بسمتي - من تشكيلة إضافات المميزة",
             "price": 8.0,
             "calories": 120,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1776,7 +1776,7 @@
             "description": "عيش 2 حبه - من تشكيلة إضافات المميزة",
             "price": 1.0,
             "calories": 15,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1786,7 +1786,7 @@
             "description": "إضافة بطاطس - من تشكيلة إضافات المميزة",
             "price": 3.0,
             "calories": 45,
-            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           }
