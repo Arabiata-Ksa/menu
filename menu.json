@@ -1003,7 +1003,7 @@
             "description": "بيتزا - من تشكيلة ساندوتشات البيض المميزة",
             "price": 10.0,
             "calories": 290,
-            "image": "",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781508626/63d5ebc5-0a1c-460b-94c6-e947c3fe63b9.png",
             "tags": [],
             "available": true
           },
@@ -1013,7 +1013,7 @@
             "description": "بيض مكس جبن - من تشكيلة ساندوتشات البيض المميزة",
             "price": 11.0,
             "calories": 390,
-            "image": "",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781508626/63d5ebc5-0a1c-460b-94c6-e947c3fe63b9.png",
             "tags": [],
             "available": true
           }
@@ -1027,10 +1027,10 @@
           {
             "id": 1094,
             "name": "بطاطس صوابع",
-            "description": "بطاطس صوابع - من تشكيلة البطاطس المميزة",
+            "description": "بطاطس صوابع  - من تشكيلة البطاطس المميزة",
             "price": 13.0,
             "calories": 430,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781509829/9cc26d7b-3bbc-4e15-b2e0-7f975b525675.png",
             "tags": [],
             "available": true
           },
@@ -1040,7 +1040,7 @@
             "description": "شيبسي - من تشكيلة البطاطس المميزة",
             "price": 7.0,
             "calories": 263,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444137/%D8%B4%D9%8A%D8%A8%D8%B3%D9%89_xej9jx.png",
             "tags": [],
             "available": true
           },
@@ -1050,7 +1050,7 @@
             "description": "بطاطس كاتشب ومايونيز - من تشكيلة البطاطس المميزة",
             "price": 14.0,
             "calories": 440,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781509961/f368cf30-06a5-4d9e-8931-f6ffc76429e4.png",
             "tags": [],
             "available": true
           },
@@ -1060,7 +1060,7 @@
             "description": "بطاطس كاتشب - من تشكيلة البطاطس المميزة",
             "price": 14.0,
             "calories": 440,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781509961/f368cf30-06a5-4d9e-8931-f6ffc76429e4.png",
             "tags": [],
             "available": true
           },
@@ -1070,7 +1070,7 @@
             "description": "بيوريه بالزبده - من تشكيلة البطاطس المميزة",
             "price": 15.0,
             "calories": 335,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444134/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D8%A8%D9%88%D8%B1%D9%8A%D8%A9_hu80jb.png",
             "tags": [],
             "available": true
           },
@@ -1080,7 +1080,7 @@
             "description": "بطاطس رومي - من تشكيلة البطاطس المميزة",
             "price": 15.0,
             "calories": 450,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781510079/7d7ddc39-9405-4bff-8d0b-f109c9f7a234.png",
             "tags": [],
             "available": true
           },
@@ -1090,7 +1090,7 @@
             "description": "بطاطس دمياطي - من تشكيلة البطاطس المميزة",
             "price": 15.0,
             "calories": 450,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444137/%D8%AA%D8%AD%D8%A7%D8%A8%D9%8A%D8%B4_zx7ucc.png",
             "tags": [],
             "available": true
           },
@@ -1100,7 +1100,7 @@
             "description": "بطاطس لحم مفروم - من تشكيلة البطاطس المميزة",
             "price": 14.0,
             "calories": 440,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781510276/687c4fb8-cadc-4de2-9d1a-1f59fecead80.png",
             "tags": [],
             "available": true
           },
@@ -1110,7 +1110,7 @@
             "description": "بطاطس تحابيش - من تشكيلة سندوتشات على كيفك المميزة",
             "price": 15.0,
             "calories": 390,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444137/%D8%AA%D8%AD%D8%A7%D8%A8%D9%8A%D8%B4_zx7ucc.png",
             "tags": [],
             "available": true
           },
@@ -1120,7 +1120,7 @@
             "description": "بطاطس جمبري - من تشكيلة البطاطس المميزة",
             "price": 20.0,
             "calories": 500,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           }
@@ -1134,20 +1134,20 @@
           {
             "id": 1104,
             "name": "بطاطس صوابع",
-            "description": "بطاطس صوابع - من تشكيلة ساندوتشات البطاطس المميزة",
+            "description": "بطاطس صوابع مع السلطه والطحينه - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 7.0,
             "calories": 370,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504525/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D9%83%D8%A7%D8%AA%D8%B4%D8%A8_%D9%85%D8%A7%D9%8A%D9%88%D9%86%D9%8A%D8%B2_auvevj.jpg",
             "tags": [],
             "available": true
           },
           {
             "id": 1105,
             "name": "شيبسي",
-            "description": "شيبسي - من تشكيلة ساندوتشات البطاطس المميزة",
+            "description": "شيبسي مع السلطه والطحينه - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 6.0,
             "calories": 254,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444125/%D8%B4%D9%8A%D8%A8%D8%B3%D9%89_hu7d5q.png",
             "tags": [],
             "available": true
           },
@@ -1157,7 +1157,7 @@
             "description": "بطاطس كاتشب ومايونيز - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 9.0,
             "calories": 390,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504525/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D9%83%D8%A7%D8%AA%D8%B4%D8%A8_%D9%85%D8%A7%D9%8A%D9%88%D9%86%D9%8A%D8%B2_auvevj.jpg",
             "tags": [],
             "available": true
           },
@@ -1167,7 +1167,7 @@
             "description": "بطاطس كاتشب - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 8.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504525/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D9%83%D8%A7%D8%AA%D8%B4%D8%A8_%D9%85%D8%A7%D9%8A%D9%88%D9%86%D9%8A%D8%B2_auvevj.jpg",
             "tags": [],
             "available": true
           },
@@ -1177,7 +1177,7 @@
             "description": "بيوريه بالزبده - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 8.0,
             "calories": 272,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444121/%D8%A8%D9%88%D8%B1%D9%8A%D9%87_%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_ev9zfn.jpg",
             "tags": [],
             "available": true
           },
@@ -1187,7 +1187,7 @@
             "description": "بطاطس رومي - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 10.0,
             "calories": 400,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781511235/8baf0a09-d018-46db-9085-81a940b7a4ce.png",
             "tags": [],
             "available": true
           },
@@ -1197,7 +1197,7 @@
             "description": "بطاطس بيض مقلي - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 12.0,
             "calories": 420,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504528/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D9%83%D8%A7%D8%AA%D8%B4%D8%A8_agmn7f.jpg",
             "tags": [],
             "available": true
           },
@@ -1207,7 +1207,7 @@
             "description": "بيوريه بيض مقلي - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 12.0,
             "calories": 400,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444121/%D8%A8%D9%88%D8%B1%D9%8A%D9%87_%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_ev9zfn.jpg",
             "tags": [],
             "available": true
           },
@@ -1217,7 +1217,7 @@
             "description": "بطاطس دمياطي - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 8.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504522/%D8%A8%D8%B0%D9%86%D8%AC%D8%A7%D9%86_%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D9%89_v38y91.jpg",
             "tags": [],
             "available": true
           },
@@ -1227,7 +1227,7 @@
             "description": "بطاطس سوسيس كاتشب ومايونيز - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 14.0,
             "calories": 440,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504525/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D9%83%D8%A7%D8%AA%D8%B4%D8%A8_%D9%85%D8%A7%D9%8A%D9%88%D9%86%D9%8A%D8%B2_auvevj.jpg",
             "tags": [],
             "available": true
           },
@@ -1237,7 +1237,7 @@
             "description": "بطاطس لحم مفروم - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 14.0,
             "calories": 440,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504528/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D9%83%D8%A7%D8%AA%D8%B4%D8%A8_agmn7f.jpg",
             "tags": [],
             "available": true
           },
@@ -1247,7 +1247,7 @@
             "description": "بطاطس تحابيش - من تشكيلة سندوتشات على كيفك المميزة",
             "price": 9.0,
             "calories": 390,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504529/%D8%AA%D8%AD%D8%A7%D8%A8%D9%8A%D8%B4_kkcxmu.jpg",
             "tags": [],
             "available": true
           },
@@ -1257,7 +1257,7 @@
             "description": "بطاطس جمبري - من تشكيلة ساندوتشات البطاطس المميزة",
             "price": 15.0,
             "calories": 450,
-            "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           }
@@ -1271,10 +1271,10 @@
           {
             "id": 1117,
             "name": "بطاطس صوابع رول",
-            "description": "بطاطس صوابع رول - من تشكيلة ساندوتشات رول المميزة",
+            "description": "بطاطس صوابع رول مع السلطه والطحينه - من تشكيلة ساندوتشات رول المميزة",
             "price": 10.0,
             "calories": 400,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504521/%D8%A7%D8%A8%D8%A7%D8%AA%D8%B4%D9%89_%D8%B1%D9%88%D9%84_taflwg.jpg",
             "tags": [],
             "available": true
           },
@@ -1284,7 +1284,7 @@
             "description": "بطاطس كاتشب ومايونيز رول - من تشكيلة ساندوتشات رول المميزة",
             "price": 12.0,
             "calories": 420,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504529/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D9%85%D9%83%D8%B3_%D8%B1%D9%88%D9%84_kkyjwv.jpg",
             "tags": [],
             "available": true
           },
@@ -1294,7 +1294,7 @@
             "description": "رول بطاطس وجبنة مشكلة",
             "price": 15.0,
             "calories": 530,
-            "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444146/%D8%B1%D9%88%D9%84_%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D9%85%D9%83%D8%B3_%D8%AC%D8%A8%D9%86_bee338.png",
             "tags": [],
             "available": true
           },
@@ -1304,7 +1304,7 @@
             "description": "أباتشي رول - من تشكيلة ساندوتشات رول المميزة",
             "price": 15.0,
             "calories": 430,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444121/%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3_%D8%B1%D9%88%D9%84_%D8%A8%D8%B3%D8%B7%D8%B1%D9%85%D8%A7_eksu2p.png",
             "tags": [],
             "available": true
           },
@@ -1314,7 +1314,7 @@
             "description": "فلانتينو رول - من تشكيلة ساندوتشات رول المميزة",
             "price": 15.0,
             "calories": 335,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504521/%D8%A7%D8%A8%D8%A7%D8%AA%D8%B4%D9%89_%D8%B1%D9%88%D9%84_taflwg.jpg",
             "tags": [],
             "available": true
           },
@@ -1324,17 +1324,17 @@
             "description": "فلافل اسكندراني - من تشكيلة ساندوتشات رول المميزة",
             "price": 10.0,
             "calories": 360,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504536/%D9%81%D9%84%D8%A7%D9%81%D9%84_%D8%B1%D9%88%D9%84_hp00kf.jpg",
             "tags": [],
             "available": true
           },
           {
             "id": 1123,
-            "name": "فلافل",
+            "name": "فلافل رول",
             "description": "فلافل - من تشكيلة ساندوتشات رول المميزة",
             "price": 9.0,
             "calories": 352,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504536/%D9%81%D9%84%D8%A7%D9%81%D9%84_%D8%B1%D9%88%D9%84_hp00kf.jpg",
             "tags": [],
             "available": true
           },
@@ -1344,7 +1344,7 @@
             "description": "شيش رول - من تشكيلة ساندوتشات رول المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781511619/690e0eaa-7b70-4f38-bfba-86274dde7af4.png",
             "tags": [],
             "available": true
           },
@@ -1354,7 +1354,7 @@
             "description": "كفته رول - من تشكيلة ساندوتشات رول المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781511664/53ad2b8c-2a9f-48c2-9cd5-9a48ba8f229c.png",
             "tags": [],
             "available": true
           }
@@ -1371,7 +1371,7 @@
             "description": "باذنجان اسكندراني - من تشكيلة ساندوتشات علي كيفك المميزة",
             "price": 10.0,
             "calories": 290,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504558/%D9%85%D8%B3%D9%82%D8%B9%D9%871_k1j4j0.jpg",
             "tags": [],
             "available": true
           },
@@ -1381,7 +1381,7 @@
             "description": "باذنجان مشوي بالطحينة والليمون والثوم",
             "price": 8.0,
             "calories": 200,
-            "image": "https://images.unsplash.com/photo-1576488484814-b0958e673cd0?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504523/%D8%A8%D8%A7%D8%A8%D8%A7_%D8%BA%D9%86%D9%88%D8%AC_dugid4.jpg",
             "tags": [
               "نباتي"
             ],
@@ -1393,7 +1393,7 @@
             "description": "جبنه مقليه - من تشكيلة ساندوتشات علي كيفك المميزة",
             "price": 15.0,
             "calories": 335,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504531/%D8%AC%D8%A8%D9%86%D8%A9_%D8%B1%D9%88%D9%85%D9%89_%D9%85%D9%82%D9%84%D9%8A%D8%A9_fiefl3.jpg",
             "tags": [],
             "available": true
           },
@@ -1403,7 +1403,7 @@
             "description": "مسقعه - من تشكيلة ساندوتشات علي كيفك المميزة",
             "price": 8.0,
             "calories": 272,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504558/%D9%85%D8%B3%D9%82%D8%B9%D9%871_k1j4j0.jpg",
             "tags": [],
             "available": true
           },
@@ -1413,7 +1413,7 @@
             "description": "جبنه بالطماطم - من تشكيلة ساندوتشات علي كيفك المميزة",
             "price": 8.0,
             "calories": 272,
-            "image": "https://images.unsplash.com/photo-1539252554935-80c382ae3e94?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781504530/%D8%AC%D8%A8%D9%86%D8%A9_%D8%A8%D8%A7%D9%84%D8%B7%D9%85%D8%A7%D8%B7%D9%85_m1bi4n.jpg",
             "tags": [],
             "available": true
           }
@@ -1430,7 +1430,7 @@
             "description": "حواوشي 1 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 12.0,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444123/%D8%AD%D9%88%D9%88%D8%B4%D9%89_mgybja.png",
             "tags": [],
             "available": true
           },
@@ -1440,7 +1440,7 @@
             "description": "سجق مشوي 1 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 12.0,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444125/%D8%B3%D8%AC%D9%82_m5bpsx.png",
             "tags": [],
             "available": true
           },
@@ -1450,7 +1450,7 @@
             "description": "سجق صلصه 1 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 12.0,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444125/%D8%B3%D8%AC%D9%82_m5bpsx.png",
             "tags": [],
             "available": true
           },
@@ -1460,7 +1460,7 @@
             "description": "شيش طاووق 1 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 12.0,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444126/%D8%B4%D9%8A%D8%B4_%D8%AE%D8%A8%D8%B2_%D8%A8%D9%84%D8%AF%D9%89_cire2y.png",
             "tags": [],
             "available": true
           },
@@ -1470,7 +1470,7 @@
             "description": "كفته خبز بلدي 1 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 12.0,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444130/%D9%83%D9%81%D8%AA%D9%87_%D8%A8%D9%84%D8%AF%D9%89_lkrmmy.png",
             "tags": [],
             "available": true
           },
@@ -1480,7 +1480,7 @@
             "description": "كبدة اسكندراني 1 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 12.0,
             "calories": 308,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444129/%D9%83%D8%A8%D8%AF%D8%A9_affggm.png",
             "tags": [],
             "available": true
           },
@@ -1490,7 +1490,7 @@
             "description": "حواوشي 2 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444123/%D8%AD%D9%88%D9%88%D8%B4%D9%89_mgybja.png",
             "tags": [],
             "available": true
           },
@@ -1500,7 +1500,7 @@
             "description": "سجق مشوي 2 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444125/%D8%B3%D8%AC%D9%82_m5bpsx.png",
             "tags": [],
             "available": true
           },
@@ -1510,7 +1510,7 @@
             "description": "سجق صلصه 2 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444125/%D8%B3%D8%AC%D9%82_m5bpsx.png",
             "tags": [],
             "available": true
           },
@@ -1520,7 +1520,7 @@
             "description": "شيش طاووق 2 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444126/%D8%B4%D9%8A%D8%B4_%D8%AE%D8%A8%D8%B2_%D8%A8%D9%84%D8%AF%D9%89_cire2y.png",
             "tags": [],
             "available": true
           },
@@ -1530,7 +1530,7 @@
             "description": "كفته خبز بلدي 2 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444131/%D9%83%D9%81%D8%AA%D9%87_vni5hz.jpg",
             "tags": [],
             "available": true
           },
@@ -1540,7 +1540,7 @@
             "description": "كبدة اسكندراني 2 حبه - من تشكيلة ساندوتشات غربي المميزة",
             "price": 20.0,
             "calories": 380,
-            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444128/%D9%83%D8%A8%D8%AF%D8%A9_00_twt8kd.png",
             "tags": [],
             "available": true
           }
@@ -1577,7 +1577,7 @@
             "description": "موزة لحم مع أرز وصوص الثوم",
             "price": 59.0,
             "calories": 890,
-            "image": "https://images.unsplash.com/photo-1544025162-d76594f977a1?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444147/%D9%85%D9%88%D8%B2%D9%87_bng9ke.png",
             "tags": [
               "تراثي"
             ],
@@ -1589,7 +1589,7 @@
             "description": "ورقة لحمه - من تشكيلة اطباق غربى صاله المميزة",
             "price": 65.0,
             "calories": 785,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1599,7 +1599,7 @@
             "description": "وجبة التوفير - من تشكيلة اطباق غربى صاله المميزة",
             "price": 29.0,
             "calories": 461,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781512474/%D8%AA%D9%88%D9%81%D9%8A%D8%B1_zmz1qk.jpg",
             "tags": [],
             "available": true
           },
@@ -1609,7 +1609,7 @@
             "description": "ريش - من تشكيلة اطباق غربي المميزة",
             "price": 69.0,
             "calories": 821,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781444147/%D9%86%D8%B5_%D8%B1%D9%8A%D8%B4_icmvsd.png",
             "tags": [],
             "available": true
           },
@@ -1619,7 +1619,7 @@
             "description": "كفتة - من تشكيلة اطباق غربي المميزة",
             "price": 35.0,
             "calories": 515,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781514233/%D9%A2%D9%A0%D9%A2%D9%A6%D9%A0%D9%A2%D9%A1%D9%A1_%D9%A1%D9%A5%D9%A1%D9%A1%D9%A0%D9%A2_y9l7j4.jpg",
             "tags": [],
             "available": true
           },
@@ -1629,7 +1629,7 @@
             "description": "شاركول - من تشكيلة اطباق غربي المميزة",
             "price": 45.0,
             "calories": 605,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "",
             "tags": [],
             "available": true
           },
@@ -1639,7 +1639,7 @@
             "description": "جولدن ميكس - من تشكيلة اطباق غربي المميزة",
             "price": 75.0,
             "calories": 875,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781514075/%D9%A2%D9%A0%D9%A2%D9%A6%D9%A0%D9%A2%D9%A1%D9%A1_%D9%A1%D9%A5%D9%A2%D9%A6%D9%A3%D9%A3_xcjuqf.jpg",
             "tags": [],
             "available": true
           },
@@ -1649,7 +1649,7 @@
             "description": "نص دجاجه - من تشكيلة اطباق غربي المميزة",
             "price": 25.0,
             "calories": 425,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781512784/562af580-9fd4-4e9d-a88c-4cebed666e22.png",
             "tags": [],
             "available": true
           },
@@ -1659,7 +1659,7 @@
             "description": "ربع دجاجه - من تشكيلة اطباق غربي المميزة",
             "price": 15.0,
             "calories": 335,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781512881/409078f3-104c-4c2d-ae03-b4fa6e01ddf9.png",
             "tags": [],
             "available": true
           },
@@ -1669,7 +1669,7 @@
             "description": "شيش طاووق - من تشكيلة اطباق غربي المميزة",
             "price": 30.0,
             "calories": 470,
-            "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400&q=80",
+            "image": "https://res.cloudinary.com/dgphrzdil/image/upload/v1781513518/c6512112-e40c-4f40-a5e7-1aa4ac85e9ea.png",
             "tags": [],
             "available": true
           }
